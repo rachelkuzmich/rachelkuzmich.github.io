@@ -1,3 +1,1 @@
-#PhD
-
-Stay tuned for details from my PhD research!
+Stay tuned for details from my PhD research at Queen's University!
