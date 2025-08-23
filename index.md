@@ -1,4 +1,3 @@
 In development... stay tuned.
 
-- [About](./about)
-- [Projects](./projects)
+[About](./about)  |  [Projects](./projects)
