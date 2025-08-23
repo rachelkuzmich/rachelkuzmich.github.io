@@ -5,6 +5,7 @@ plugins:
 title: [Rachel Kuzmich]
 description: [remote sensing + ecology]
 
+#make these show up at the top, for navigation
 header_pages:
   - index.md
   - about.md
