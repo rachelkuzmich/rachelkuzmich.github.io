@@ -4,3 +4,8 @@ plugins:
 
 title: [Rachel Kuzmich]
 description: [remote sensing + ecology]
+
+header_pages:
+  - index.md
+  - about.md
+  projects/index.md
