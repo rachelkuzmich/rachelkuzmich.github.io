@@ -1,3 +1,3 @@
 #PhD
 
-Stay tuned!
+Stay tuned for details from my PhD research!
