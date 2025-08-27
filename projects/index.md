@@ -1,3 +1,3 @@
 [PhD](./phd)  |  [PostDoc](./postdoc) |  [Publications](./publications)  |  [Teaching](./teaching)
 
-In development. Come back soon!
+In development. Check back soon!
