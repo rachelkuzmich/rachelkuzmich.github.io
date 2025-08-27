@@ -1,3 +1,3 @@
-Coming soon.
+[PhD](./phd)  |  [PostDoc](./postdoc) |  [Publications](./publications)  |  [Teaching](./teaching)
 
-[PhD](./phd)  |  [PostDoc](./postdoc) |  [Publications](./publications)
+Coming soon!
