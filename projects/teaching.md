@@ -1,1 +1,1 @@
-Coming soon... stay tuned.
+Coming soon... please stay tuned.
