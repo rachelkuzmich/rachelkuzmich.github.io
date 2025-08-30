@@ -9,6 +9,6 @@ This site is where I share my work, projects, and writing about my academic jour
 ## Explore
 - [About Me](./about) — background, research interests, and academic profile.  
 - [Projects](./projects) — details about my [PhD](./projects/phd) and [Postdoc](./projects/postdoc) research.  
-- [Blog... coming soon!](./blog) — occasional posts on ecology, remote sensing, and research life.  
+- [Blog](./blog) — occasional posts on ecology, remote sensing, and research life.  
 
 ---
