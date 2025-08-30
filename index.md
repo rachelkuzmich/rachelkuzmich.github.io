@@ -1,4 +1,4 @@
-[About](./about)  |  [Projects](./projects)
+[About](./about)  |  [Projects](./projects)  |  [Blog](./blog)
 
 # Welcome
 
