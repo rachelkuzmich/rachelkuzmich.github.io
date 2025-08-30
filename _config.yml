@@ -10,3 +10,4 @@ header_pages:
   - index.md
   - about.md
   - projects/index.md
+  - blog.md
