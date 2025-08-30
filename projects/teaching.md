@@ -5,7 +5,7 @@ Queen’s University, Department of Geography and Planning
 - Winter 2024: Biogeography (GPHY-207)
 - Winter 2023: Spatial Analysis (GPHY-345)
 
-## Teaching assistant
+## Teaching Assistant
 
 Queen’s University, Department of Geography and Planning
 - Autumn 2023: Remote Sensing of the Environment (GPHY-242)
