@@ -1,4 +1,4 @@
-Teaching Fellow
+## Teaching Fellow
 
 Queen’s University, Department of Geography and Planning
 Winter 2025: Digital Image Processing (GPHY-342)
