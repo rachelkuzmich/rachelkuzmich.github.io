@@ -8,7 +8,7 @@ This site is where I share my research and teaching work, projects and publicati
 
 ## Explore
 - [About](./about) - academic background and research interests.  
-- [Projects](./projects) - details about my [PhD](./projects/phd) and [Postdoc](./projects/postdoc) research, list of [publications](./projects/publications), and [teaching](./projects/teaching).  
+- [Projects](./projects) - details about my [PhD](./projects/phd) and [postdoc](./projects/postdoc) research, list of [publications](./projects/publications), and [teaching](./projects/teaching).  
 - [Blog](./blog) - posts on ecology, remote sensing, and research life.  
 
 ---
