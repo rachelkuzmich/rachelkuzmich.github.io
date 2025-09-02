@@ -12,15 +12,15 @@ Queen’s University, Department of Geography and Planning
 Key responsibilities: create and deliver specialized lectures on invited topics
 
 Norwegian University of Life Sciences, Environmental Sciences and Natural Resource Management
-- Autumn 2025: Introduction to R (MINA-305: Remote Sensing in Forest and Natural Resource Management)
-- Autumn 2025: Aerial Imagery and Photogrammetry (MINA-305: Remote Sensing in Forest and Natural Resource Management)
+- Autumn 2025: Introduction to R (MINA-305: Remote Sensing in Forest and Natural Resource Management; graduate-level)
+- Autumn 2025: Aerial Imagery and Photogrammetry (MINA-305: Remote Sensing in Forest and Natural Resource Management; graduate-level)
 
 
 Queen’s University, Department of Geography and Planning
 - Winter 2017: Thermal Remote Sensing (GPHY-242: Remote Sensing of the Environment)
 - Winter 2017: Spatial Data Sources and Databases (GPHY-243: Geographic Information Science)
-- Winter 2021: Lidar Remote Sensing (GPHY-842: Remote Sensing of Environment)
-- Winter 2021: Introduction to R (GPHY-842: Remote Sensing of Environment)
+- Winter 2021: Lidar Remote Sensing (GPHY-842: Remote Sensing of Environment; graduate-level)
+- Winter 2021: Introduction to R (GPHY-842: Remote Sensing of Environment; graduate-level)
 
 ## Teaching Assistant
 
