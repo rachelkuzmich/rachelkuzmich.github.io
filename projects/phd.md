@@ -5,4 +5,5 @@ In my first chapter, I characterized woodland vegetation structure using ALS and
 Overall, this research demonstrates that remote sensing time series capture ecologically meaningful habitat attributes and provide valuable insights into bird ecology, while also offering guidance for modelling species occurrence and niche dynamics.
 
 ## Publications
+Kuzmich, R. J. (2025). [The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche.](https://hdl.handle.net/1974/34528)
 
