@@ -1,11 +1,30 @@
-## Teaching Fellow
+## Course Instructor
+
+Key responsibilities: complete course design and implementation
 
 Queen’s University, Department of Geography and Planning
 - Winter 2025: Remote Sensing II: Digital Image Processing (GPHY-342)
 - Winter 2024: Biogeography (GPHY-207)
 - Winter 2023: Spatial Analysis (GPHY-345)
 
+## Guest Lecturer
+
+Key responsibilities: create and deliver specialized lectures on invited topics
+
+Norwegian University of Life Sciences, Environmental Sciences and Natural Resource Management
+- Autumn 2025: Introduction to R (MINA-305: Remote Sensing in Forest and Natural Resource Management)
+- Autumn 2025: Aerial Imagery and Photogrammetry (MINA-305: Remote Sensing in Forest and Natural Resource Management)
+
+
+Queen’s University, Department of Geography and Planning
+- Winter 2017: Thermal Remote Sensing (GPHY-242: Remote Sensing of the Environment)
+- Winter 2017: Spatial Data Sources and Databases (GPHY-243: Geographic Information Science)
+- Winter 2021: Lidar Remote Sensing (GPHY-842: Remote Sensing of Environment)
+- Winter 2021: Introduction to R (GPHY-842: Remote Sensing of Environment)
+
 ## Teaching Assistant
+
+Key responsibilities: facilitating lab activities, liaising with students and grading
 
 Queen’s University, Department of Geography and Planning
 - Autumn 2023: Remote Sensing of the Environment (GPHY-242)
