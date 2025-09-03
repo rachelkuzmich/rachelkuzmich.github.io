@@ -6,6 +6,10 @@ In my first chapter, I characterized woodland vegetation structure using ALS and
 
 Overall, this research demonstrates that remote sensing time series capture ecologically meaningful habitat attributes and provide valuable insights into bird ecology, while also offering guidance for modelling species occurrence and niche dynamics.
 
+### Defense Presentation
+
+<iframe src="/assets/files/PhDdefense.pdf" width="100%" height="700px"></iframe>
+
 ## Publications
 
 ### Thesis
