@@ -6,7 +6,7 @@ In my first chapter, I characterized woodland vegetation structure using ALS and
 
 Overall, this research demonstrates that remote sensing time series capture ecologically meaningful habitat attributes and provide valuable insights into bird ecology, while also offering guidance for modelling species occurrence and niche dynamics.
 
-### Defense Presentation
+### Defense presentation
 
 <object data="/assets/files/PhDdefense.pdf" width="500" height="500" type='application/pdf'></object>
 
@@ -27,7 +27,7 @@ Kuzmich, R., Hill, R., Treitz, P., Bellamy, P., and Hinsley, S. (2023) Changes t
 
 Kuzmich, R. (2019) Understanding Bird Habitat Using Airborne Laser Scanning. Geographical Imaginations Geography Graduate Symposium, Queen’s University, Kingston, Canada.
 
-### Public Events
+### Public events
 
 Kuzmich, R. (2025) The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. PhD Thesis Exam, Queen’s University, Kingston, Canada.
 
