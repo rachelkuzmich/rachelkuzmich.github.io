@@ -10,10 +10,12 @@ Overall, this research demonstrates that remote sensing time series capture ecol
 
 <object data="/assets/files/PhDdefense.pdf" width="500" height="500" type='application/pdf'></object>
 
+
 ## Publications
 
 ### Thesis
-Kuzmich, R. J. (2025). [The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche.](https://hdl.handle.net/1974/34528)
+
+Kuzmich, R. J. (2025). The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. [PhD Thesis](https://hdl.handle.net/1974/34528)
 
 ### Presentations
 
@@ -26,6 +28,8 @@ Kuzmich, R., Hill, R., Treitz, P., Bellamy, P., and Hinsley, S. (2023) Changes t
 Kuzmich, R. (2019) Understanding Bird Habitat Using Airborne Laser Scanning. Geographical Imaginations Geography Graduate Symposium, Queen’s University, Kingston, Canada.
 
 ### Public Events
+
+Kuzmich, R. (2025) The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. PhD Thesis Exam, Queen’s University, Kingston, Canada.
 
 Kuzmich, R. (2023). The Forest for the Birds with Remote Sensing. Prince Edward Point Bird Observatory, Spring Birding Festival, Prince Edward, Canada.
 
