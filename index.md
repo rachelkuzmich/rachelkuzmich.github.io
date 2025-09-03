@@ -2,7 +2,7 @@
 
 # Welcome
 
-I am Rachel Kuzmich, a researcher interested in ecology and remote sensing. My work focuses on understanding spatiotemporal aspects of forest dynamics.
+Hello! I'm Rachel Kuzmich, a researcher interested in ecology and remote sensing. Much of my work is focused on understanding spatiotemporal aspects of forest dynamics.
 
 This site is where I share my research and teaching work, projects and publications, and writing about my academic journey.
 
