@@ -8,7 +8,7 @@ Overall, this research demonstrates that remote sensing time series capture ecol
 
 ### Defense Presentation
 
-<object data="../assets/files/PhDdefense.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/files/PhDdefense.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Publications
 
