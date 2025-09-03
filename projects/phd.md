@@ -1,6 +1,5 @@
 My PhD explored how a time series of airborne laser scanning (ALS) structural and Landsat spectral metrics can be used to understand bird habitat, occurrence, and niche across multiple UK woodlands. 
 
-
 <div style="display:flex; justify-content:center; gap:20px;">
   <img src="/assets/images/UKedge.jpg" alt="UK woodland edge" 
        style="width:200px; border-radius:10px;">
@@ -8,8 +7,7 @@ My PhD explored how a time series of airborne laser scanning (ALS) structural an
        style="width:200px; border-radius:10px;">
 </div>
 
-
-I successfully defended my thesis and submitted my dissertation in April 2025. My oral exam presentation is included below, along with a link to my full disseratation. This research would not have been possible without guidance from my supervisors, Paul Treitz (Queen's University, Canada) and Ross Hill (Bournemouth University, UK), feedback from my collaborators, Paul Bellamy (The Royal Society for the Protection of Birds Centre for Conservation Science), Shelley Hinsley (UK Centre for Ecology and Hydrology), Ailidh Barnes (British Trust for Ornithology), Richard Broughton (UK Centre for Ecology and Hydrology) and Markus Melin (Natural Resources Institute Finland), and funding from the Natural Sciences and Engineering Research Council of Canada (Canada Graduate Scholarships-Doctoral).
+<p>I successfully defended my thesis and submitted my dissertation in April 2025. My oral exam presentation is included below, along with a link to my full disseratation. This research would not have been possible without guidance from my supervisors, Paul Treitz (Queen's University, Canada) and Ross Hill (Bournemouth University, UK), feedback from my collaborators, Paul Bellamy (The Royal Society for the Protection of Birds Centre for Conservation Science), Shelley Hinsley (UK Centre for Ecology and Hydrology), Ailidh Barnes (British Trust for Ornithology), Richard Broughton (UK Centre for Ecology and Hydrology) and Markus Melin (Natural Resources Institute Finland), and funding from the Natural Sciences and Engineering Research Council of Canada (Canada Graduate Scholarships-Doctoral).
 
 My work focused on four species with different habitat preferences: the habitat generalists Blue Tit (*Cyanistes caeruleus*) and Chaffinch (*Fringilla coelebs*), and the specialists Chiffchaff (*Phylloscopus collybita*) and Willow Warbler (*Phylloscopus trochilus*). These species occurred within six woodland patches in Cambridgeshire, UK, including ancient remnant woodlands (Gamsey, Lady’s, Raveley, and Riddy Woods) and at sites undergoing succession via passive rewilding (Old Wilderness and New Wildnerss) adjacent to Monks Wood National Nature Reserve. A time series of bird survey (2000-2, 2005-7, 2012-14, 2015-17) and remote sensing data (2000, 2005, 2012/2013, 2015) were used.
 
