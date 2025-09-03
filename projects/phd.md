@@ -1,11 +1,13 @@
 My PhD explored how a time series of airborne laser scanning (ALS) structural and Landsat spectral metrics can be used to understand bird habitat, occurrence, and niche across multiple UK woodlands. 
 
+
 <div style="display:flex; justify-content:center; gap:20px;">
   <img src="/assets/images/UKedge.jpg" alt="UK woodland edge" 
        style="width:200px; border-radius:10px;">
   <img src="/assets/images/UKinterior.jpg" alt="UK woodland interior" 
        style="width:200px; border-radius:10px;">
 </div>
+
 
 I successfully defended my thesis and submitted my dissertation in April 2025. My oral exam presentation is included below, along with a link to my full disseratation. This research would not have been possible without guidance from my supervisors, Paul Treitz (Queen's University, Canada) and Ross Hill (Bournemouth University, UK), feedback from my collaborators, Paul Bellamy (The Royal Society for the Protection of Birds Centre for Conservation Science), Shelley Hinsley (UK Centre for Ecology and Hydrology), Ailidh Barnes (British Trust for Ornithology), Richard Broughton (UK Centre for Ecology and Hydrology) and Markus Melin (Natural Resources Institute Finland), and funding from the Natural Sciences and Engineering Research Council of Canada (Canada Graduate Scholarships-Doctoral).
 
