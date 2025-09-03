@@ -1,7 +1,7 @@
 My PhD explored how a time series of airborne laser scanning (ALS) structural and Landsat spectral metrics can be used to understand bird habitat, occurrence, and niche across multiple UK woodlands. 
 
 <div style="display:flex; justify-content:center; gap:20px;">
-  <img src="/assets/images/Ukedge.jpg" alt="UK woodland edge" 
+  <img src="/assets/images/UKedge.jpg" alt="UK woodland edge" 
        style="width:200px; border-radius:10px;">
   <img src="/assets/images/UKinterior.jpg" alt="UK woodland interior" 
        style="width:200px; border-radius:10px;">
