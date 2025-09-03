@@ -6,5 +6,5 @@ In August 2025, I joined the Faculty of Environmental Sciences and Natural Resou
   <img src="/assets/images/Norwayfloor.jpg" alt="Norway moss floor" 
        style="width:200px; border-radius:10px;">
 </div>
-<p>
+
 <p>This project is led by Line Nybakken, and includes contributions from Danielle Creek, Johan Asplund, Attila Nemes, Hans Ole Ørka and Terje Gobakken. My research within this project is focused on forest ecosystem monitoring with remote sensing in the context of climate change.
