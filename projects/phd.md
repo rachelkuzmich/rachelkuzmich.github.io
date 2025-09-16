@@ -16,18 +16,18 @@ My PhD explored how a time series of airborne laser scanning (ALS) structural an
 <p>Overall, this research demonstrates that remote sensing time series capture ecologically meaningful habitat attributes and provide valuable insights into bird ecology, while also offering guidance for modelling species occurrence and niche dynamics.
 <p>
 <p>  
-### Defense presentation
+## Defense presentation
 <p>
 <object data="/assets/files/PhDdefense.pdf" width="500" height="500" type='application/pdf'></object>
 <p>
 <p>
 ## Publications
 <p>
-### Thesis
+## Thesis
 <p>
 <p>Kuzmich, R. J. (2025). The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. [PhD Thesis](https://hdl.handle.net/1974/34528)
 <p>
-### Presentations
+## Presentations
 <p>
 <p>Kuzmich, R., Hill, R., Hinsley, S. Bellamy, P., Broughton, R., Barnes, A., Melin, M., and Treitz, P. (2025). The Influence of Abundance on Within-Patch Breeding Season Habitat Characteristics for Chiffchaff. British Ornithologists' Union 2025: Frontiers in Ornithology, Nottingham, UK.
 <p>
@@ -37,7 +37,7 @@ My PhD explored how a time series of airborne laser scanning (ALS) structural an
 <p>
 <p>Kuzmich, R. (2019) Understanding Bird Habitat Using Airborne Laser Scanning. Geographical Imaginations Geography Graduate Symposium, Queen’s University, Kingston, Canada.
 <p>
-### Public events
+## Public events
 <p>
 <p>Kuzmich, R. (2025) The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. PhD Thesis Exam, Queen’s University, Kingston, Canada.
 <p>
