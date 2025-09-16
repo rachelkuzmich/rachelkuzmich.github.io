@@ -30,7 +30,7 @@ My PhD explored how a time series of airborne laser scanning (ALS) structural an
   
 ### Thesis
 <p>
-<p>Kuzmich, R. J. (2025). The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. [PhD Thesis](https://hdl.handle.net/1974/34528)
+Kuzmich, R. J. (2025). The Changing Forest for the Birds: Using Remote Sensing Time Series to Examine Bird Habitat, Occurrence and Niche. [PhD Thesis](https://hdl.handle.net/1974/34528)
 <p>
   
 ### Presentations
