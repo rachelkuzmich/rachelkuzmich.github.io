@@ -14,6 +14,7 @@ Key responsibilities: create and deliver specialized lectures on invited topics
 Norwegian University of Life Sciences, Environmental Sciences and Natural Resource Management
 - Autumn 2025: Introduction to R (MINA-305: Remote Sensing in Forest and Natural Resource Management; graduate-level)
 - Autumn 2025: Aerial Imagery and Photogrammetry (MINA-305: Remote Sensing in Forest and Natural Resource Management; graduate-level)
+- Autumn 2025: Lidar Processing in R Workshop (MINA-305: Remote Sensing in Forest and Natural Resource Management; graduate-level)
 
 Queen’s University, Department of Geography and Planning
 - Winter 2017: Thermal Remote Sensing (GPHY-242: Remote Sensing of the Environment)
