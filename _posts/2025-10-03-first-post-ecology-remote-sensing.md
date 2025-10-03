@@ -2,6 +2,7 @@
 layout: post
 title: "First post - welcome"
 date: 2025-10-03 10:00:00 +02:00
+author: "Rachel Jade Kuzmich"
 categories: [blog]
 tags: [introduction, remote sensing, ecology]
 excerpt: "A quick hello, what you can expect from this blog, and why remote sensing and ecology go together."
