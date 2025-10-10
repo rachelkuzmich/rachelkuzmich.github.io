@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Remote Sensing in Ecology & Why It Matters for Forest Research"
+date: 2025-10-03 10:00:00 +02:00
+author: "Rachel Jade Kuzmich"
+categories: [blog]
+tags: [ecology, remote sensing, forests, conservation, scicomm]
+excerpt: "Forests are complex dynamic systems and remote sensing allows us to observe and understand forests and change across scales simultaneously — from tree-level to global changes."
+---
+
+## Seeing Forests from Above
+
+Traditionally, forest ecology has relied on direct observations collected from forest inventories, tree rings, and other field campaigns capturing information about a range of attributes, like species composition at the plot level and growth measurements of individual trees. These approaches remain essential and capture highly detailed and specific information, but they are limited in their spatial and temporal capacity, capturing only part of the whole story.  
+
+Remote sensing, which refers to the collection of data from afar, often using satellites, aircrafts, or drones. These data provide a potentially continuous picture of forest structure, function and change. Through the integration with field data, ecologists can study how forests respond to climate, recover from disturbance, and support biodiversity at multiple scales, helping inform management and conservation policies.
+
+Remote sensing provides the framework to study forests as complex, dynamic, interconnected systems; from individual trees to entire biomes, from processes to patterns, and from observation to action.
+
+---
+
+## Why Scale Matters
+
+Forests are structured hierarchically. Processes at one scale shape and are shaped by processes at others. Understanding these connections requires data that can span from across scales, potentially from an individual tree to the entire planet. Remote sensing provides that bridge.
+
+- Tree level: individual trees are the building blocks of forests. Remote sensing at this scale captures traits like crown size, height, or leaf area that influence light capture and growth.
+- Population level: within a species, populations respond differently to environmental conditions. Remote sensing helps track how growth, survival or distribution of a population. Remote sensing can also be used to examine a population's relationship with climate, potentially revealing patterns of local adaptation and resilience.
+- Ecosystem level: forest stands and ecosystems are shaped by interactions among species, and other biotic and abiotic components. Remote sensing captures canopy complexity, productivity, and biomass, allowing ecologists to study processes such as ecosystem carbon cycling and energy exchange.
+- Regional level: across landscapes, forest dynamics are influenced by disturbance regimes, topography, and land use/landcover changes. Remote sensing, and particularly time series, can show how forest structure and function vary across space, revealing patterns of loss, recovery, and succession.
+- Global level: at the largest scale, remote sensing provides consistent, repeatable measurements of forests worldwide. These data are essential for understanding climate–vegetation feedbacks, estimating carbon fluxes, and monitoring the global impacts of human activity.
+
+Remote sensing connects these scales by linking patterns (what we see) with processes (why it happens) and consequences (what it means). 
+
+---
+
+## Important Contributions of Remote Sensing to Forest Ecology
+
+## Understanding the Drivers of Forest Change
+
+Remote sensing data can be combined with climate records to reveal how forests respond to environmental variability. For instance:
+
+- Spectral data: tracks changes in canopy greenness and phenology in response to temperature or precipitation
+- LiDAR (light detection and ranging): measures canopy height and density to detect structural responses to climate
+- Integration with ground data: combines remote sensing with dendrometers or flux towers to link physiological responses to observed patterns
+
+---
+
+## Mapping Patterns of Forest Change
+
+Decades of satellite archives — for example, Landsat data collected since 1972 — allow continuous monitoring of forests over time. Remote sensing reveals:
+
+- Long-term trends: tracking forest loss, regeneration, and conversion to understand land-use/landcover change and climate impacts
+- Disturbance impacts: mapping the impacts of fire, drought, pests, and windstorms to assess severity, resilience and recovery rates
+- Seasonal and annual variability: observing shifts in leaf phenology and productivity to detect short-term changes in forest function
+
+---
+
+## Linking Forest Change to Ecological Consequences
+
+Remote sensing can also be used to help understand what forest changes mean for the species that depend on them.  
+
+- Habitat modeling: combining occurrence data and remote sensing to predict species distributions
+- Habitat quality: using canopy and understory metrics to identify nesting or foraging areas
+- Connectivity: mapping forest continuity to model movement and dispersal
+
+---
+
+## From Observation to Action: Forest Management and Conservation
+
+Remote sensing insights can inform forest management and conservation policies.
+
+- Prioritization:identifying areas of high biodiversity, carbon storage, or vulnerability to disturbance 
+- Monitoring outcomes: assessing whether restoration or protection efforts are succeeding
+- Scenario planning: simulating how future climate or land-use changes might alter forest composition and function
+
+---
+
+## Key Takeaways
+
+- Remote sensing can represent forests as complex dynamic systems across scales.  
+- Combining remote sensing with field data helps link what we see, with why it happens, and what it means.  
+- These insights support better conservation, restoration, and forest management decisions.  
+
+Remote sensing can do so much more than let us see forests from above. Remote sensing can help us understand how forests grow, respond to change, and support the species that depend on them, and support decision making.
