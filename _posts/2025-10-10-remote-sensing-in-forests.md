@@ -32,7 +32,7 @@ Remote sensing connects these scales by linking patterns (what we see) with proc
 
 ## Important Contributions of Remote Sensing to Forest Ecology
 
-Understanding the Drivers of Forest Change
+### Understanding the Drivers of Forest Change
 
 Remote sensing data can be combined with climate records to reveal how forests respond to environmental variability. For instance:
 
@@ -41,7 +41,7 @@ Remote sensing data can be combined with climate records to reveal how forests r
 - Integration with ground data: combines remote sensing with dendrometers or flux towers to link physiological responses to observed patterns
 
 
-Mapping Patterns of Forest Change
+### Mapping Patterns of Forest Change
 
 Decades of satellite archives — for example, Landsat data collected since 1972 — allow continuous monitoring of forests over time. Remote sensing reveals:
 
@@ -50,7 +50,7 @@ Decades of satellite archives — for example, Landsat data collected since 1972
 - Seasonal and annual variability: observing shifts in leaf phenology and productivity to detect short-term changes in forest function
 
 
-Linking Forest Change to Ecological Consequences
+### Linking Forest Change to Ecological Consequences
 
 Remote sensing can also be used to help understand what forest changes mean for the species that depend on them.  
 
@@ -59,7 +59,7 @@ Remote sensing can also be used to help understand what forest changes mean for 
 - Connectivity: mapping forest continuity to model movement and dispersal
 
 
-From Observation to Action: Forest Management and Conservation
+### From Observation to Action: Forest Management and Conservation
 
 Remote sensing insights can inform forest management and conservation policies.
 
@@ -70,8 +70,8 @@ Remote sensing insights can inform forest management and conservation policies.
 
 ## Key Takeaways
 
-- Remote sensing can represent forests as complex dynamic systems across scales.  
-- Combining remote sensing with field data helps link what we see, with why it happens, and what it means.  
-- These insights support better conservation, restoration, and forest management decisions.  
+- Remote sensing can represent forests as complex dynamic systems across scales
+- Combining remote sensing with field data helps link what we see, with why it happens, and what it means
+- These insights support better conservation, restoration, and forest management decisions
 
 Remote sensing can do so much more than let us see forests from above. Remote sensing can help us understand how forests grow, respond to change, and support the species that depend on them, and support decision making.
