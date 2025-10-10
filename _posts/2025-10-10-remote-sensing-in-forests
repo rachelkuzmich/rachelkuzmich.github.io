@@ -3,8 +3,8 @@ layout: post
 title: "Remote Sensing in Ecology & Why It Matters for Forest Research"
 date: 2025-10-10 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
-categories: blog
-tags: ecology, remote sensing, forests, conservation, scicomm
+categories: [blog]
+tags: [ecology, remote sensing, forests, conservation, scicomm]
 excerpt: "Forests are complex dynamic systems and remote sensing allows us to observe and understand forests and change across scales simultaneously — from tree-level to global changes."
 ---
 
@@ -16,7 +16,6 @@ Remote sensing, which refers to the collection of data from afar, often using sa
 
 Remote sensing provides the framework to study forests as complex, dynamic, interconnected systems; from individual trees to entire biomes, from processes to patterns, and from observation to action.
 
----
 
 ## Why Scale Matters
 
@@ -30,7 +29,6 @@ Forests are structured hierarchically. Processes at one scale shape and are shap
 
 Remote sensing connects these scales by linking patterns (what we see) with processes (why it happens) and consequences (what it means). 
 
----
 
 ## Important Contributions of Remote Sensing to Forest Ecology
 
@@ -42,7 +40,6 @@ Remote sensing data can be combined with climate records to reveal how forests r
 - LiDAR (light detection and ranging): measures canopy height and density to detect structural responses to climate
 - Integration with ground data: combines remote sensing with dendrometers or flux towers to link physiological responses to observed patterns
 
----
 
 Mapping Patterns of Forest Change
 
@@ -52,7 +49,6 @@ Decades of satellite archives — for example, Landsat data collected since 1972
 - Disturbance impacts: mapping the impacts of fire, drought, pests, and windstorms to assess severity, resilience and recovery rates
 - Seasonal and annual variability: observing shifts in leaf phenology and productivity to detect short-term changes in forest function
 
----
 
 Linking Forest Change to Ecological Consequences
 
@@ -62,7 +58,6 @@ Remote sensing can also be used to help understand what forest changes mean for 
 - Habitat quality: using canopy and understory metrics to identify nesting or foraging areas
 - Connectivity: mapping forest continuity to model movement and dispersal
 
----
 
 From Observation to Action: Forest Management and Conservation
 
@@ -72,7 +67,6 @@ Remote sensing insights can inform forest management and conservation policies.
 - Monitoring outcomes: assessing whether restoration or protection efforts are succeeding
 - Scenario planning: simulating how future climate or land-use changes might alter forest composition and function
 
----
 
 ## Key Takeaways
 
