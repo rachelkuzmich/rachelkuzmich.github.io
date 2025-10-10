@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remote Sensing in Ecology & Why It Matters for Forest Research"
+title: "Remote sensing in ecology & why it matters for forest research"
 date: 2025-10-10 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
