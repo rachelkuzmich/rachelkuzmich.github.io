@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Watching the Trees: Reflections from the DendroNet Meeting"
+title: "Watching the trees at DendroNet"
 date: 2025-10-17 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
