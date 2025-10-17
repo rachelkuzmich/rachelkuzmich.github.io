@@ -8,7 +8,7 @@ tags: [ecology, dendrometers, forests, physiology, remote sensing, scaling]
 excerpt: "Dendrometers provide information about the inner dynamics of trees, capturing growth, water use, and stress in real time. This makes them a useful tool for linking tree-level processes with remote sensing."
 ---
 
-This week I joined the first day of the Nordic Dendrometer Network (DendroNet) Meeting, organized by my colleague, Danielle Creek, held on my campus the Norwegian University of Life Sciences. I had planned on attending the full conference, but alas the germs at my child's kindergarten had other plans.
+This week I joined the first day of the Nordic Dendrometer Network (DendroNet) Meeting, organized by my colleague, Danielle Creek, held on my campus the Norwegian University of Life Sciences. I had planned on attending the full conference, but alas the germs at my child's kindergarten had other plans. 
 
 Dendrometers are high-precision sensors that directly measure tiny changes in a tree’s stem diameter. These data are collected continuously and often at micrometer resolution. Stem diameter fluctuations reflect both reversible changes in water status, and irreversible growth from new wood formation. By recording these signals, within a year and across years, dendrometers capture fine-scale physiological responses of trees to variation in temperature, precipitation, soil moisture, and seasonal dynamics.
 
