@@ -30,13 +30,13 @@ There are multiple methods for analyzing remote sensing time series, depending o
 
 I like how Verbesselt et al 2010 described the types of time series analyses to characterize change.
 
-### **1. Seasonal change**
+- Seasonal change
 Ecosystems vary seasonally as temperature and rainfall influence plant phenology, canopy greenness, and productivity. Time series can capture these cyclic dynamics.
 
-### **2. Gradual change**
+- Gradual change
 Beyond intra-annual seasonal changes, ecosystems experience gradual or directional inter-annual changes, for instance associated with climate variability or forest succession. These changes appear as long-term trends in time series data.
 
-### **3. Abrupt change**
+- Abrupt change
 Ecosystems can also undergo sudden, high-magnitude shifts due to disturbances such as forest fire or harvesting. These events are often captured as breakpoints or discontinuities in a time series.
 
 Detecting change through time is not straightforward. Ecological time series may include multiple types of changes, along with noise from factors like sensor differences, atmosphere, and viewing geometry. The challenge is to separate meaningful ecological change from this variability
