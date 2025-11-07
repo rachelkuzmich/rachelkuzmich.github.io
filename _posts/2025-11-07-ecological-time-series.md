@@ -12,8 +12,6 @@ excerpt: "Ecological time series allow us to detect, model, and understand chang
 
 Ecological systems are dynamic, and the spatial and temporal resolution of remote sensing time series enable the observation of this dynamism. From seasonal changes to forest succession to responses to exogenous factors, remote sensing time series allow us to see change across space, time and scales. In ecology, time series data have enabled researchers to move from snapshots to stories. A single remote sensing acquisition reveals a pattern; a static snapshot of canopy structure, greenness, or species composition. While a time series helps to tell the story of the processes behind those patterns; enhancing our understanding of the mechanisms and drivers of forest growth, mortality, and regeneration. This shift from pattern to process is critical for interpreting ecosystem function (particularly in the context of a changing climate).
 
----
-
 ## From imagery to information
 
 The type of information extracted from remote sensing depends on the platform and the sensor. The platform determines spatial and temporal resolution. For instance, uncrewed aerial vehicles (UAVs) provide sub-meter detail ideal for tree-level analyses, airborne systems balance resolution and coverage for stand- to landscape-scale applications, while satellites enable long-term regional and global monitoring. The sensor defines what type of information is observed. Basic RGB cameras offer easily interpretable visual information, while higher spectral resolution sensors like multispectral and hyperspectral allow us quantify canopy greenness, stress, chemistry. Radar and lidar are both used to characterize three-dimensional structural components such as height, gap dynamics, and biomass. Together, platform and sensor choices determine the scale, resolution, frequency, and ecological processes that can be studied.
@@ -21,8 +19,6 @@ The type of information extracted from remote sensing depends on the platform an
 The key is repeated (ideally consistently!) data acquisitions, forming a time series. Temporal analysis also requires harmonized data. Each data acquisition in the time series needs to be adjusted to make it consistent and comparable across sensors, platforms or dates. Harmonization typically involves resampling images to a common pixel grid, co-registering them spatially, and applying radiometric calibration to correct for sensor and illumination differences. This ensures that apparent differences reflect actual ecological differences, rather than artifacts due to differences in acquisition characteristics. 
 
 Harmonized remote sensing data can be stacked to form ecological time series, linking scales of observation and ecology. Connecting pixel or object analytical units, to tree-, stand-, landscape-, regional- and global level ecological processes.
-
----
 
 ## Types of change
 
@@ -51,9 +47,9 @@ From my perspective, the strength of remote sensing time series is not only to d
 
 Analyzing ecological time series is ultimately about understanding change, not just detecting it. Remote sensing provides a record of how ecosystems vary across space and time and respond to different types of changes from different types of drivers. These data are indispensable for developing time series, but their greatest value lies in linking remote sensing patterns to underlying processes.
 
----
-
 This post introduces core concepts for analyzing ecological time series from remote sensing. In upcoming posts, I’ll explore practical workflows for building and analyzing ecological time series, including example methods and code.
+
+---
 
 ## References
 
