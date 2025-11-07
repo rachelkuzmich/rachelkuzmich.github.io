@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Points and Pixels to Processes: Ecological Time Series with Remote Sensing"
+title: "From points and pixels to processes: Ecological time series with remote sensing"
 date: 2025-11-07 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
