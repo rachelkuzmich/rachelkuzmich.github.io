@@ -4,7 +4,7 @@ title: "From points and pixels to processes: Ecological time series with remote 
 date: 2025-11-07 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
-tags: [ecology, remote sensing, time series, workflow, methods]
+tags: [ecology, remote sensing, time series, change]
 excerpt: "Ecological time series allow us to detect, model, and understand change in ecosystems through time. This post outlines key approaches and workflows for analyzing these data, from trend detection to linking patterns with ecological processes."
 ---
 
