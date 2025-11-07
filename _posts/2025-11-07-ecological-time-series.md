@@ -8,7 +8,7 @@ tags: [ecology, remote sensing, time series, change]
 excerpt: "Ecological time series allow us to detect, model, and understand change in ecosystems through time. This post outlines key approaches and workflows for analyzing these data, from trend detection to linking patterns with ecological processes."
 ---
 
-## Why ecological time series
+## Why ecological time series?
 
 Ecological systems are dynamic, and the spatial and temporal resolution of remote sensing time series enable the observation of this dynamism. From seasonal changes to forest succession to responses to exogenous factors, remote sensing time series allow us to see change across space, time and scales. In ecology, time series data have enabled researchers to move from snapshots to stories. A single remote sensing acquisition reveals a pattern; a static snapshot of canopy structure, greenness, or species composition. While a time series helps to tell the story of the processes behind those patterns; enhancing our understanding of the mechanisms and drivers of forest growth, mortality, and regeneration. This shift from pattern to process is critical for interpreting ecosystem function (particularly in the context of a changing climate).
 
