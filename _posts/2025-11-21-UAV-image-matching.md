@@ -4,7 +4,7 @@ title: "From points and pixels to processes: Evaluating UAV image matching algor
 date: 2025-11-21 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
-tags: [ecology, remote sensing, time series, UAV, image matching]
+tags: [ecology, remote sensing, UAV, image matching]
 excerpt: "High-resolution UAV imagery can transform ecological time series. Choice of image matching algorithm influences radiometric and geometric consistency, affecting change detection and ecological interpretation."
 ---
 
