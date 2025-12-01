@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advent Day 1: What can remote sensing do for ecologists?"
-date: 2025-11-21 10:00:00 +02:00
+date: 2025-12-01 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
 tags: [ecology, remote sensing, advent]
