@@ -18,6 +18,8 @@ This Advent series introduces 24 practical tools, each answering the same questi
   <img src="/assets/images/adventday1-cavenderbares2022.png" alt="Figure from Cavender-Bares et al., 2022" width="700">
 </p>
 
+This figure from Cavender-Bares et al., 2022 captures how remote sensing complements ecological (and evolutionary) research by adding spatial and temporal context to the many tools already used. It highlights how remote sensing observations connect local biological processes with regional-to-global environmental patterns and processes.
+
 ---
 
 ## References
