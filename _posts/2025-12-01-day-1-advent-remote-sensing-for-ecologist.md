@@ -15,7 +15,7 @@ The strength of remote sensing is not replacing ecological measurements, but sca
 This Advent series introduces 24 practical tools, each answering the same question: “What can remote sensing help me understand about ecological systems?”.
 
 <p align="center">
-  <img src="/assets/images/adventday1-cavenderbares2022.jpg" alt="Figure from Cavender-Bares et al., 2022" width="700">
+  <img src="/assets/images/adventday1-cavenderbares2022.png" alt="Figure from Cavender-Bares et al., 2022" width="700">
 </p>
 
 ---
