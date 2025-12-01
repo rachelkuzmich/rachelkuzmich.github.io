@@ -24,5 +24,5 @@ This figure from Cavender-Bares et al., 2022 captures how remote sensing complem
 
 ## References
 
-  Cavender-Bares, J., Schneider, F. D., Santos, M. J., Armstrong, A., Carnaval, A., Dahlin, K. M., Fatoyinbo, L., Hurtt, G. C., Schimel, D., Townsend, P. A., Ustin, S. L., Wang, Z., & Wilson, A. M. (2022). Integrating remote sensing with ecology and evolution to advance biodiversity conservation. Nature Ecology & Evolution, 6(5), 506–519. [https://doi.org/10.1038/s41559-022-01702-5]
+  Cavender-Bares, J., Schneider, F. D., Santos, M. J., Armstrong, A., Carnaval, A., Dahlin, K. M., Fatoyinbo, L., Hurtt, G. C., Schimel, D., Townsend, P. A., Ustin, S. L., Wang, Z., & Wilson, A. M. (2022). Integrating remote sensing with ecology and evolution to advance biodiversity conservation. Nature Ecology & Evolution, 6(5), 506–519. [https://doi.org/10.1038/s41559-022-01702-5](https://doi.org/10.1038/s41559-022-01702-5)
 
