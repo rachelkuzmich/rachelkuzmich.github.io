@@ -32,7 +32,7 @@ That’s why other indices have been developed. Meet a few of NDVI's friends:
   <img src="/assets/images/adventday2-USGSLandsatVIs.png" alt="Figure from Cavender-Bares et al., 2022" width="700">
 </p>
 
-This figure provides an example of some of the [many vegetation indices that can be derived from the Landsat satellite missions](https://www.usgs.gov/landsat-missions/landsat-surface-reflectance-derived-spectral-indices), which may be useful for examing landscape and global terrestrial ecosystem changes.
+This figure provides an example of some of the [many vegetation indices that can be derived from the Landsat satellite missions](https://www.usgs.gov/landsat-missions/landsat-surface-reflectance-derived-spectral-indices), which may be useful for examing landscape-level and global terrestrial ecosystem changes.
 
 For ecologists, these indices provide efficient, interpretable indicators of greenness, moisture, stress, disturbance, and more. Vegetation indices offer fast, consistent, accessible insights that can guide further investigation but they are not diagnostic tools on their own. They cannot be used by themselves to distinguish between and attribute different causes of change. For instance, NDVI doesn't know whether it’s water stress, nutrient limitation, disturbance, or what that is making vegetation more or less green. But NDVI can help identify and quantify changes that are important in ecological systems.
 
