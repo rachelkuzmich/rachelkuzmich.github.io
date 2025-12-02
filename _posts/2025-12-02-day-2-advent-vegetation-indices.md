@@ -36,7 +36,7 @@ This figure provides an example of some of the [many vegetation indices that can
 
 For ecologists, these indices provide efficient, interpretable indicators of greenness, moisture, stress, disturbance, and more. Vegetation indices offer fast, consistent, accessible insights that can guide further investigation but they are not diagnostic tools on their own. They cannot be used by themselves to distinguish between and attribute different causes of change. For instance, NDVI doesn't know whether it’s water stress, nutrient limitation, disturbance, or what that is making vegetation more or less green. But NDVI can help identify and quantify changes that are important in ecological systems.
 
-If you want to go deep on this topic, [this review](https://doi.org/10.1155/2017/1353691) by Xue & Su (2017) and [this one](https://doi.org/10.1038/s43017-022-00298-5), you will definitely want to check out the supplementary material, by Zeng et al (2022) are great places to start. There are also a ton of application and environment specific reviews.
+If you want to go deep on this topic, [this review](https://doi.org/10.1155/2017/1353691) by Xue & Su., 2017 and [this one](https://doi.org/10.1038/s43017-022-00298-5) by Zeng et al., 2022 (psst, the supplementary material is excellent on this one) are great places to start. There are also a ton of application and environment specific reviews.
 
 ---
 
