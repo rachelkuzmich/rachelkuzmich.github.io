@@ -36,7 +36,7 @@ If you want to go deep on this topic, [this review](https://doi.org/10.1155/2017
 
 ## References
 
-  Xue, J., & Su, B. (2017). Significant Remote Sensing Vegetation Indices: A Review of Developments and Applications. JOURNAL OF SENSORS, 2017, 1–17. [https://doi.org/10.1155/2017/1353691](https://doi.org/10.1155/2017/1353691)
+  Xue, J., & Su, B. (2017). Significant Remote Sensing Vegetation Indices: A Review of Developments and Applications. Journal of Sensors, 2017, 1–17. [https://doi.org/10.1155/2017/1353691](https://doi.org/10.1155/2017/1353691)
 
 
   Zeng, Y., Hao, D., Huete, A., Dechant, B., Berry, J., Chen, J. M., Joiner, J., Frankenberg, C., Bond-Lamberty, B., Ryu, Y., Xiao, J., Asrar, G. R., & Chen, M. (2022). Optical vegetation indices for monitoring terrestrial ecosystems globally. Nature Reviews Earth & Environment, 3(7), 477–493. [https://doi.org/10.1038/s43017-022-00298-5](https://doi.org/10.1038/s43017-022-00298-5)
