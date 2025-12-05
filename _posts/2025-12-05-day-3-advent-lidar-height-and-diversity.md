@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advent Day 3: Lidar height and Diversity"
+title: "Advent Day 3: Lidar height and diversity"
 date: 2025-12-03 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
