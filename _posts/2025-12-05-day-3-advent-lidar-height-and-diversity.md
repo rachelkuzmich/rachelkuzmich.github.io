@@ -5,7 +5,7 @@ date: 2025-12-03 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
 tags: [ecology, remote sensing, advent, lidar]
-excerpt: "Here’s what remote sensing can do for ecologists. Today’s focus is on lidar and how."
+excerpt: "Here’s what remote sensing can do for ecologists. Today’s focus is on lidar and how it can save you a lot of time from collecting 3D data in the field."
 ---
 
 Today we shift from spectral data to 3D structure. Lidar (light detection and ranging) tells us how vegetation is arranged in space.
