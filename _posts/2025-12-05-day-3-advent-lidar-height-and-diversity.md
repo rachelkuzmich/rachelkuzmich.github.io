@@ -20,7 +20,13 @@ For ecologists, canopy height and vertical structure relate to:
 - disturbance intensity and post-disturbance regrowth
 - vertical heterogeneity, a key correlate of biodiversity
 
-The importance of vertical structure has deep roots in ecology. Long before lidar, Robert MacArthur introduced foliage height diversity (FHD), showing that bird communities respond strongly to variation in vegetation layering (MacArthur & MacArthur, 1961; one of my favourite papers). Measuring FHD once required labor-intensive field sampling - (imagine doing it this way)[https://doi.org/10.2307/1933693]? Lidar captures these same gradients directly, consistently, and across entire landscapes.
+The importance of vertical structure has deep roots in ecology. Long before lidar, Robert MacArthur introduced foliage height diversity (FHD), showing that bird communities respond strongly to variation in vegetation layering (MacArthur & MacArthur, 1961; one of my favourite papers). Measuring FHD once required labor-intensive field sampling - (imagine doing it this way)[https://doi.org/10.2307/1933693]? 
+
+<p align="center">
+  <img src="/assets/images/adventday3-MacArthurMacArthur1961.png" alt="Figure from Cavender-Bares et al., 2022" width="700">
+</p>
+
+[This figure](https://doi.org/10.2307/1932254) provides an example of some manual FHD derivations. Lidar captures these same structural gradients directly, consistently, and across entire landscapes.
 
 Field measurements remain valuable for fine-level detail, but lidar extends structural ecology into a truly spatial science; for instance modelling species' habitat, disturbance, and recovery at scales that were previously inaccessible.
 
