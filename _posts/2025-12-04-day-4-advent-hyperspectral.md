@@ -8,7 +8,7 @@ tags: [ecology, remote sensing, advent, hyperspectral]
 excerpt: "Here’s what remote sensing can do for ecologists. Today we are introducing hyperspectral data, which captures super fine spectral information."
 ---
 
-Where multispectral imagery captures broad colors like red, green, and near-infrared, and can be used to develop vegetation indices (like NDVI and friends)[https://rachelkuzmich.github.io/blog/2025/12/02/day-2-advent-vegetation-indices.html], hyperspectral sensors record reflectance in hundreds of narrow, contiguous bands. Each pixel carries a full spectral signature.
+Where multispectral imagery captures broad colors like red, green, and near-infrared, and can be used to develop vegetation indices (like NDVI and friends), hyperspectral sensors record reflectance in hundreds of narrow, contiguous bands. Each pixel carries a full spectral signature.
 
 <p align="center">
   <img src="/assets/images/adventday4-Iordache2020.png" alt="Figure from Cavender-Bares et al., 2022" width="700">
