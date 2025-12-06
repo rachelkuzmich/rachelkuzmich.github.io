@@ -11,7 +11,7 @@ excerpt: "Here’s what remote sensing can do for ecologists. Today we are intro
 Where multispectral imagery captures broad colors like red, green, and near-infrared, and can be used to develop vegetation indices (like NDVI and friends), hyperspectral sensors record reflectance in hundreds of narrow, contiguous bands. Each pixel carries a full spectral signature.
 
 <p align="center">
-  <img src="/assets/images/adventday4-Iordache2020.png" alt="Figure from Cavender-Bares et al., 2022" width="700">
+  <img src="/assets/images/adventday4-Iordache2020.png" alt="Figure from Iordache et al., 2020" width="700">
 </p>
 
 
