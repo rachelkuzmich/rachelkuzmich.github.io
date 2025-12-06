@@ -20,12 +20,11 @@ Of course, LULC data come with caveats. Class boundaries can be fuzzy, spectral 
   <img src="/assets/images/adventday5-Niknaddaf2023.png" alt="Figure from Niknaddaf et al., 2023" width="700">
 </p>
 
-Still, when the goal is to understand how ecosystems are arranged, how they’re changing, and how these changes have impacted the myriad of species on our planet, like newts in (this analysis)[https://doi.org/10.1016/j.gecco.2023.e02739] by Niknaddaf et al 2023, LULC maps provide a valuable tool that can help ecologists connect local observations to landscape patterns, and global trends.
+Still, when the goal is to understand how ecosystems are arranged, how they’re changing, and how these changes have impacted the myriad of species on our planet, like newts in (this analysis)[https://doi.org/10.1016/j.gecco.2023.e02739] by Niknaddaf et al 2023, LULC maps provide a valuable tool that can help ecologists connect local observations to landscape patterns and global trends.
 
 
 ---
 
 ## References
-
 
   Niknaddaf, Z., Hemami, M.-R., Pourmanafi, S., & Ahmadi, M. (2023). An integrative climate and land cover change detection unveils extensive range contraction in mountain newts. Global Ecology and Conservation., 48. https://doi.org/10.1016/j.gecco.2023.e02739
