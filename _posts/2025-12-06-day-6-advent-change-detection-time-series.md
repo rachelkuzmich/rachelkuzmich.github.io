@@ -31,10 +31,10 @@ Where single acquisitions provide a static overview, multi-temporal data tell st
 
 If you want to go deeper, [Woodcock et al 2020](https://doi.org/10.1016/j.rse.2019.111558) give a nice accessible review to monitoring with remote sensing. 
 
+
 --
 
 ## References
-
 
   He, H., Yan, J., Liang, D., Sun, Z., Li, J., & Wang, L. (2024). Time-series land cover change detection using deep learning-based temporal semantic segmentation. Remote Sensing of Environment, 305. [https://doi.org/10.1016/j.rse.2024.114101](https://doi.org/10.1016/j.rse.2024.114101)
 
