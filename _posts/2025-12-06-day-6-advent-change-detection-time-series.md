@@ -16,7 +16,7 @@ Change detection and time series analysis both rely on repeated observations, bu
   <img src="/assets/images/adventday6-He2024.png" alt="Figure from He et al., 2024" width="700">
 </p>
 
-And LULC information can be used too, in fact this is one of the main areas of research! This paper by [He et al 2023](https://doi.org/10.1016/j.rse.2024.114101) introduces a deep-learning model for temporal semantic segmentation change detection that identifies where, when, and what urban land-cover changes occur by learning month-to-month transitions directly from spectral time series.
+And LULC information can be used too, in fact this is one of the main areas of research! This paper by [He et al 2024](https://doi.org/10.1016/j.rse.2024.114101) introduces a deep-learning model for temporal semantic segmentation change detection that identifies where, when, and what urban land-cover changes occur by learning month-to-month transitions directly from spectral time series.
 
 Remote sensing time series reveal ecological change in ways that single images or two-date comparisons can’t. Raw spectral bands track shifts in greenness, moisture, and surface conditions. Vegetation indices amplify signals of productivity, stress, and disturbance. LULC products translate spectral patterns into interpretable categories that can be compared across years. And repeat lidar point clouds add a structural lens, showing changes in canopy height, biomass, and vertical complexity—whether from disturbance, regrowth, or long-term ecosystem transformation.
 
