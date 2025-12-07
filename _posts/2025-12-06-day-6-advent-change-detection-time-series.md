@@ -29,8 +29,7 @@ A few core methods dominate ecological applications:
 
 Where single acquisitions provide a static overview, multi-temporal data tell stories. Used together, these tools let ecologists move from spatial patterns to spatiotemporal changes and dynamics, offering deeper insights into how our planet responds to natural and anthropogenic pressures. Multi-temporal remote sensing data open the door to deeper questions about how our world responds to natural dynamics and anthropogenic pressures through time.
 
-If you want to go deeper, [Woodcock et al 2020](https://doi.org/10.1016/j.rse.2019.111558) give a nice accessible review to monitoring with remote sensing.
-
+If you want to go deeper, [Woodcock et al 2020](https://doi.org/10.1016/j.rse.2019.111558) give a nice accessible review to monitoring with remote sensing. 
 
 --
 
