@@ -23,8 +23,8 @@ One important use of DEMs is watershed analysis. By modeling how water flows acr
 There are a lot of ecological applications of terrain-driven hydrology and topography:
 - Locate microrefugia and drought-resistant sites: small depressions and subtle flow paths create cooler, moister microsites
 - Map wetlands and riparian habitats: drainage networks indicate where water and nutrients accumulate
-- Explain species distributions and clustering:slope, aspect, and topographic position shape microclimates
-- Identify areas prone to landslides or erosion: steep slopes and flow convergence highlight unstable terrain
+- Explain species distributions: slope, aspect, and topographic position shape microclimates
+- Identify susceptible areas: steep slopes and flow convergence highlight unstable terrain prone to landslides or erosion
 - Interpret vegetation patterns and forest structure — topography combined with spectral or lidar data reveals productivity and canopy dynamics
 
 <p align="center">
