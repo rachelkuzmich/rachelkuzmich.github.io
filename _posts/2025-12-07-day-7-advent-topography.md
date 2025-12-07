@@ -18,7 +18,7 @@ DEMs can be derived from multiple data sources, each with its strengths:
 
 DEMs provide information on elevation, and they’re the starting point for a whole suite of terrain variables. Primary terrain variables, like elevation, slope, aspect and hillshade, come directly from elevation values, with no additional modeling. Secondary terrain metrics, like curvature, roughness, and water related indices, are derived by analyzing how elevation changes across space.
 
-One important application of DEMs is watershed analysis. By modeling how water flows across the terrain reveals where it drains, where it accumulates, and where it converges. We can delineate catchments, identify stream networks, and estimate runoff pathways. Topographic and hydrological patterns are tied to ecological processes, and connecting watershed structure to ecology can uncover patterns that aren’t visible from spectral remote sensing data.
+One important use of DEMs is watershed analysis. By modeling how water flows across the terrain reveals where it drains, where it accumulates, and where it converges. We can delineate catchments, identify stream networks, and estimate runoff pathways. Topographic and hydrological patterns are tied to ecological processes, and connecting watershed structure to ecology can uncover patterns that aren’t visible from spectral remote sensing data.
 
 There are a lot of ecological applications of terrain-driven hydrology and topography:
 - Locate microrefugia and drought-resistant sites: small depressions and subtle flow paths create cooler, moister microsites
