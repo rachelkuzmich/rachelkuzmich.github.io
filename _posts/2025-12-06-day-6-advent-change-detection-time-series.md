@@ -36,7 +36,7 @@ If you want to go deeper, [Woodcock et al 2020](https://doi.org/10.1016/j.rse.20
 ## References
 
 
-  He, H., Yan, J., Liang, D., Sun, Z., Li, J., & Wang, L. (2024). Time-series land cover change detection using deep learning-based temporal semantic segmentation. Remote Sensing of Environment, 305. [https://doi.org/10.1016/j.rse.2024.114101](https://doi.org/10.1016/j.rse.2024.114101}
+  He, H., Yan, J., Liang, D., Sun, Z., Li, J., & Wang, L. (2024). Time-series land cover change detection using deep learning-based temporal semantic segmentation. Remote Sensing of Environment, 305. [https://doi.org/10.1016/j.rse.2024.114101](https://doi.org/10.1016/j.rse.2024.114101)
 
 
   Woodcock, C. E., Loveland, T. R., Herold, M., & Bauer, M. E. (2020). Transitioning from change detection to monitoring with remote sensing: A paradigm shift. Remote Sensing of Environment, 238. [https://doi.org/10.1016/j.rse.2019.111558](https://doi.org/10.1016/j.rse.2019.111558)
