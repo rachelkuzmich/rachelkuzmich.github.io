@@ -5,7 +5,7 @@ date: 2025-12-07 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
 tags: [ecology, remote sensing, advent, DEM, topography]
-excerpt: "Here’s what remote sensing can do for ecologists. Today we explore how DEMs and terrain-driven hydrology help ecologists map the hidden gradients that guide species, water, and energy"
+excerpt: "Here’s what remote sensing can do for ecologists. Today we explore how DEMs help ecologists map the surface gradients that guide species, water, and energy"
 ---
 
 Topography is the physical backbone of ecosystems. Digital elevation models (DEMs) underpin many ecological analyses because they capture the physical template that shapes microclimate, hydrology, and habitat distribution. Even small differences in terrain can determine where moisture pools, where frost lingers, how vegetation grows, and how species move.
