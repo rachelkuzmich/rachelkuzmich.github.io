@@ -25,7 +25,7 @@ There are a lot of ecological applications of terrain-driven hydrology and topog
 - Map wetlands and riparian habitats: drainage networks indicate where water and nutrients accumulate
 - Explain species distributions and clustering:slope, aspect, and topographic position shape microclimates
 - Identify areas prone to landslides or erosion: steep slopes and flow convergence highlight unstable terrain
-- Interpret vegetation patterns and forest structure — topography combined with spectral or lidar data reveals productivity and canopy dynamics.
+- Interpret vegetation patterns and forest structure — topography combined with spectral or lidar data reveals productivity and canopy dynamics
 
 <p align="center">
   <img src="/assets/images/adventday7-keppel2017.png" alt="Figure from Keppel et al., 2017" width="700">
