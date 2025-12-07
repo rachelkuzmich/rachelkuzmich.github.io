@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advent Day 7: Topography as an Ecological Driver"
+title: "Advent Day 7: Topography as an ecological driver"
 date: 2025-12-07 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
@@ -16,7 +16,6 @@ DEMs can be derived from multiple data sources, each with its strengths:
 - Radar is able to penetrate clouds and can map terrain in challenging conditions
 - Old school on-the-ground surveying still matters too! Especially for calibration, validation, small-scale ecological studies, highly dynamic areas and under dense vegetation cover.
 
-
 DEMs provide information on elevation, and they’re the starting point for a whole suite of terrain variables. Primary terrain variables, like elevation, slope, aspect and hillshade, come directly from elevation values, with no additional modeling. Secondary terrain metrics, like curvature, roughness, and water related indices, are derived by analyzing how elevation changes across space.
 
 One important application of DEMs is watershed analysis. By modeling how water flows across the terrain reveals where it drains, where it accumulates, and where it converges. We can delineate catchments, identify stream networks, and estimate runoff pathways. Topographic and hydrological patterns are tied to ecological processes, and connecting watershed structure to ecology can uncover patterns that aren’t visible from spectral remote sensing data.
@@ -29,7 +28,7 @@ There are a lot of ecological applications of terrain-driven hydrology and topog
 - Interpret vegetation patterns and forest structure — topography combined with spectral or lidar data reveals productivity and canopy dynamics.
 
 <p align="center">
-  <img src="/assets/images/adventday7-Keppel2017.png" alt="Figure from He et al., 2024" width="700">
+  <img src="/assets/images/adventday7-keppel2017.png" alt="Figure from Keppel et al., 2017" width="700">
 </p>
 
 For instance, [Keppel et al 2017](https://doi.org/10.1093/aob/mcw182) developed species distribution models with two endemic flowering plants (Ornduffia calthifolia and O. marchantii) in Austratlia and included a high reolustion lidar-derived DEM. They found that topographic and elevation variables were important for explaining the fine-scale habitat for both species. Using those variables to predict habitat, as shown in the figure above, this study found that areas of suitable habitat for O. marchantii were widespread while r O. calthifolia wasr restricted to higher areas.
