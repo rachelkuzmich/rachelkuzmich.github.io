@@ -28,6 +28,12 @@ There are a lot of ecological applications of terrain-driven hydrology and topog
 - Identify areas prone to landslides or erosion: steep slopes and flow convergence highlight unstable terrain
 - Interpret vegetation patterns and forest structure — topography combined with spectral or lidar data reveals productivity and canopy dynamics.
 
+<p align="center">
+  <img src="/assets/images/adventday7-Keppel2017.png" alt="Figure from He et al., 2024" width="700">
+</p>
+
+For instance, [Keppel et al 2017](https://doi.org/10.1093/aob/mcw182) developed species distribution models with two endemic flowering plants (Ornduffia calthifolia and O. marchantii) in Austratlia and included a high reolustion lidar-derived DEM. They found that topographic and elevation variables were important for explaining the fine-scale habitat for both species. Using those variables to predict habitat, as shown in the figure above, this study found that areas of suitable habitat for O. marchantii were widespread while r O. calthifolia wasr restricted to higher areas.
+
 Topography grounds ecological analysis in physical reality. It helps explain fine-scale gradients and DEM-derived variables are some of the most widely used predictors in species distribution models, ecosystem mapping, and climate downscaling because they capture stable, process-rich constraints that shape ecosystems over long timescales. In short, topography is the quiet architect of landscapes. DEMs give ecologists the means to map that architecture, and understand the ecological stories it enables.
 
 Topography grounds ecological analysis in physical reality. DEM-derived variables are widely used because they capture relatively stable aspects that shape ecosystems over long time periods. In short, topography is a quiet architect of ecosystems and ecosystems processes.
@@ -37,4 +43,4 @@ Topography grounds ecological analysis in physical reality. DEM-derived variable
 ## References
 
 
-  Keppel, G., Robinson, T. P., Wardell-Johnson, G. W., Yates, C. J., Van Niel, K. P., Byrne, M., & Schut, A. G. T. (2017). A low-altitude mountain range as an important refugium for two narrow endemics in the Southwest Australian Floristic Region biodiversity hotspot. Annals of Botany., 119(2), 289–300. https://doi.org/10.1093/aob/mcw182
+  Keppel, G., Robinson, T. P., Wardell-Johnson, G. W., Yates, C. J., Van Niel, K. P., Byrne, M., & Schut, A. G. T. (2017). A low-altitude mountain range as an important refugium for two narrow endemics in the Southwest Australian Floristic Region biodiversity hotspot. Annals of Botany., 119(2), 289–300. [https://doi.org/10.1093/aob/mcw182](https://doi.org/10.1093/aob/mcw182)
