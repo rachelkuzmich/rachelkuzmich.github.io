@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Advent Day 8: Lidar height and diversity"
-date: 2025-12-03 10:00:00 +02:00
+title: "Advent Day 8: Spectral bands"
+date: 2025-12-08 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
-tags: [ecology, remote sensing, advent, lidar]
+tags: [ecology, remote sensing, advent, spectral]
 excerpt: "Here’s what remote sensing can do for ecologists. Today we’re finally talking about spectral bands themselves and the different ecological signalsthat they contain."
 ---
 
