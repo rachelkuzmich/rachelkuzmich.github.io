@@ -19,10 +19,10 @@ Canopy cover matters because it regulates several key ecological processes.
 - Regeneration: determines where seedlings can germinate and survive, influencing the composition of future forests
 
 <p align="center">
-  <img src="/assets/images/adventday10-Slaton2025.png" alt="Image from Fu et al., 2021" width="700">
+  <img src="/assets/images/adventday10-Slaton2024.png" alt="Image from Slaton et al., 2024" width="700">
 </p>
 
-And of course if you have a time series of data, then you can model change through time like this study by {Slaton et al 2025}(https://doi.org/10.1080/01431161.2024.2421943), and figure showing loss through time.
+And of course if you have a time series of data, then you can model change through time like this study by [Slaton et al 2024](https://doi.org/10.1080/01431161.2024.2421943), and figure showing loss through time.
 
 At its core, canopy cover can be used to link structure to ecological process. Remote sensing gives ecologists a way to quantify this structure consistently, repeatedly, and across scales that are difficult to capture from the ground.
 
