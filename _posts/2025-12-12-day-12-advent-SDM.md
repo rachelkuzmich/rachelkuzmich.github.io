@@ -19,7 +19,7 @@ Remote sensing information commonly used in SDMs include:
 
 
 <p align="center">
-  <img src="/assets/images/adventday12-Randin2020.png.png" alt="Image from Randin et al., 2020" width="700">
+  <img src="/assets/images/adventday12-Randin2020.png" alt="Image from Randin et al., 2020" width="700">
 </p>
 
 
