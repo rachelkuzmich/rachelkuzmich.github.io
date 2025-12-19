@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advent Day 9: Digital Aerial Photogrammetry: When Spectral Data Becomes 3D"
+title: "Advent Day 9: Digital aerial photogrammetry: When spectral data becomes 3D"
 date: 2025-12-09 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
