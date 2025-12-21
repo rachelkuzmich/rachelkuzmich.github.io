@@ -5,7 +5,7 @@ date: 2025-12-20 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
 tags: [ecology, remote sensing, interpretation, classification]
-excerpt: "Here’s what remote sensing can do for ecologists. Maps simplify reality—and that simplification can mislead if we don’t read them critically."
+excerpt: "Here’s what remote sensing can do for ecologists. Pixels and maps simplify reality, these simplifications can mislead if we don’t think about them critically."
 ---
 
 Maps often feel intuitive. Forest here, grassland there. High NDVI in green, low in brown. Beneath these clean visuals lie two layers of abstraction that shape how we interpret patterns: pixels and the classifications applied to them. Understanding both is essential, because misleading results arise from how continuous variation is captured in pixels and translated into discrete maps.
