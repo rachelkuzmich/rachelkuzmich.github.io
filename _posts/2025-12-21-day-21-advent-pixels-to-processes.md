@@ -5,7 +5,7 @@ date: 2025-12-21 10:00:00 +02:00
 author: "Rachel Jade Kuzmich"
 categories: [blog]
 tags: [ecology, remote sensing, mechanisms, interpretation]
-excerpt: "Here’s what remote sensing can do for ecologists. Patterns are easy to map; understanding the processes behind them requires ecological insight."
+excerpt: "Here’s what remote sensing can do for ecologists. Patterns are easy to map; understanding the processes behind them requires ecological integration."
 ---
 
 Remote sensing is excellent at revealing patterns, but ecological understanding of those patterns depends on processes. Patterns describe what we observe (spatial distributions, temporal trends, correlations) while processes describe the biological, physical, and ecological mechanisms that generate those patterns. This distinction matters because similar remote sensing signals can arise from very different ecological causes. A decline in NDVI might reflect drought stress, herbivory, disease, phenological shifts or management practices (or some combination of many of these). Without context, the pixel or mapped product alone cannot distinguish among these explanations.
