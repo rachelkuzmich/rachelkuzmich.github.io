@@ -29,5 +29,4 @@ Remote sensing is best used when connections are explicit. This happens through 
 
 ## References
 
-
   Fang, J., Fang, J., Chen, B., Zhang, H., Dilawar, A., Guo, M., & Liu, S. (2024). Assessing Spatial Representativeness of Global Flux Tower Eddy-Covariance Measurements Using Data from FLUXNET2015. Scientific Data, 11(1), Article 569. [https://doi.org/10.1038/s41597-024-03291-3](https://doi.org/10.1038/s41597-024-03291-3)
